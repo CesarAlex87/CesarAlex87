@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CesarAlex87
 - 👀 I’m interested in videogames, software development and food
+- ☕ Java Developer
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me via email : tipanantonc@gmail.com
